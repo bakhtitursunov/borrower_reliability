@@ -9,7 +9,6 @@ The results of this analysis will be considered when developing a credit scoring
 ## 📁 Project Contents
 
 - `credit_payment_analysis.ipynb` — main notebook with data processing, analysis, and conclusions.
-- `description.docx` — task instructions.
 - `data/credit_data.csv` — dataset from the bank.
 
 ## 📊 Dataset Description
